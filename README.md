@@ -1,192 +1,185 @@
-# Awesome System Design Resources
+# awesome-system-design-resources
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the awesome-system-design-resources notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![awesome-system-design-resources](https://opengraph.githubassets.com/1/ashishps1/awesome-system-design-resources)](https://www.swifttechco.com)
-
-
-<p align="center">
-  <img src="diagrams/system-design-github.png" width="400" height="250">
-</p>
-
-This repository contains free resources to learn System Design concepts and prepare for interviews.
-
-👉 Subscribe to my [AlgoMaster Newsletter](https://www.swifttechco.com) and get a **FREE System Design Interview Handbook** in your inbox.
-
-✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://www.swifttechco.com)
+[![awesome-system-design-resources](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## ⚙️ Core Concepts
-- [Scalability](https://www.swifttechco.com)
-- [Availability](https://www.swifttechco.com)
-- [Reliability](https://www.swifttechco.com)
-- [SPOF](https://www.swifttechco.com)
-- [Latency vs Throughput vs Bandwidth](https://www.swifttechco.com)
-- [Consistent Hashing](https://www.swifttechco.com)
-- [CAP Theorem](https://www.swifttechco.com)
-- [Failover](https://www.swifttechco.com)
-- [Fault Tolerance](https://www.swifttechco.com)
+- Scalability
+- Availability
+- Reliability
+- SPOF
+- Latency vs Throughput vs Bandwidth
+- Consistent Hashing
+- CAP Theorem
+- Failover
+- Fault Tolerance
 
 ## 🌐 Networking Fundamentals
-- [OSI Model](https://www.swifttechco.com)
-- [IP Addresses](https://www.swifttechco.com)
-- [Domain Name System (DNS)](https://www.swifttechco.com)
-- [Proxy vs Reverse Proxy](https://www.swifttechco.com)
-- [HTTP/HTTPS](https://www.swifttechco.com)
-- [TCP vs UDP](https://www.swifttechco.com)
-- [Load Balancing](https://www.swifttechco.com)
-- [Checksums](https://www.swifttechco.com)
+- OSI Model
+- IP Addresses
+- Domain Name System (DNS)
+- Proxy vs Reverse Proxy
+- HTTP/HTTPS
+- TCP vs UDP
+- Load Balancing
+- Checksums
 
 ## 🔌 API Fundamentals
-- [APIs](https://www.swifttechco.com)
-- [API Gateway](https://www.swifttechco.com)
-- [REST vs GraphQL](https://www.swifttechco.com)
-- [WebSockets](https://www.swifttechco.com)
-- [Webhooks](https://www.swifttechco.com)
-- [Idempotency](https://www.swifttechco.com)
-- [Rate limiting](https://www.swifttechco.com)
-- [API Design](https://www.swifttechco.com)
+- APIs
+- API Gateway
+- REST vs GraphQL
+- WebSockets
+- Webhooks
+- Idempotency
+- Rate limiting
+- API Design
 
 ## 🗄️ Database Fundamentals
-- [ACID Transactions](https://www.swifttechco.com)
-- [SQL vs NoSQL](https://www.swifttechco.com)
-- [Database Indexes](https://www.swifttechco.com)
-- [Database Sharding](https://www.swifttechco.com)
-- [Data Replication](https://www.swifttechco.com)
-- [Database Scaling](https://www.swifttechco.com)
-- [Databases Types](https://www.swifttechco.com)
-- [Bloom Filters](https://www.swifttechco.com)
-- [Database Architectures](https://www.swifttechco.com)
+- ACID Transactions
+- SQL vs NoSQL
+- Database Indexes
+- Database Sharding
+- Data Replication
+- Database Scaling
+- Databases Types
+- Bloom Filters
+- Database Architectures
 
 ## ⚡ Caching Fundamentals
-- [Caching 101](https://www.swifttechco.com)
-- [Caching Strategies](https://www.swifttechco.com)
-- [Cache Eviction Policies](https://www.swifttechco.com)
-- [Distributed Caching](https://www.swifttechco.com)
-- [Content Delivery Network (CDN)](https://www.swifttechco.com)
+- Caching 101
+- Caching Strategies
+- Cache Eviction Policies
+- Distributed Caching
+- Content Delivery Network (CDN)
 
 ## 🔄 Asynchronous Communication
-- [Pub/Sub](https://www.swifttechco.com)
-- [Message Queues](https://www.swifttechco.com)
-- [Change Data Capture (CDC)](https://www.swifttechco.com)
+- Pub/Sub
+- Message Queues
+- Change Data Capture (CDC)
 
 ## 🧩 Distributed System and Microservices
-- [HeartBeats](https://www.swifttechco.com)
-- [Service Discovery](https://www.swifttechco.com)
-- [Consensus Algorithms](https://www.swifttechco.com)
-- [Distributed Locking](https://www.swifttechco.com)
-- [Gossip Protocol](https://www.swifttechco.com)
-- [Circuit Breaker](https://www.swifttechco.com)
-- [Disaster Recovery](https://www.swifttechco.com)
-- [Distributed Tracing](https://www.swifttechco.com)
+- HeartBeats
+- Service Discovery
+- Consensus Algorithms
+- Distributed Locking
+- Gossip Protocol
+- Circuit Breaker
+- Disaster Recovery
+- Distributed Tracing
 
 ## 🖇️ Architectural Patterns
-- [Client-Server Architecture](https://www.swifttechco.com)
-- [Microservices Architecture](https://www.swifttechco.com)
-- [Serverless Architecture](https://www.swifttechco.com)
-- [Event-Driven Architecture](https://www.swifttechco.com)
-- [Peer-to-Peer (P2P) Architecture](https://www.swifttechco.com)
+- Client-Server Architecture
+- Microservices Architecture
+- Serverless Architecture
+- Event-Driven Architecture
+- Peer-to-Peer (P2P) Architecture
 
 ## ⚖️ System Design Tradeoffs
-- [Top 15 Tradeoffs](https://www.swifttechco.com)
-- [Vertical vs Horizontal Scaling](https://www.swifttechco.com)
-- [Concurrency vs Parallelism](https://www.swifttechco.com)
-- [Long Polling vs WebSockets](https://www.swifttechco.com)
-- [Batch vs Stream Processing](https://www.swifttechco.com)
-- [Stateful vs Stateless Design](https://www.swifttechco.com)
-- [Strong vs Eventual Consistency](https://www.swifttechco.com)
-- [Read-Through vs Write-Through Cache](https://www.swifttechco.com)
-- [Push vs Pull Architecture](https://www.swifttechco.com)
-- [REST vs RPC](https://www.swifttechco.com)
-- [Synchronous vs. asynchronous communications](https://www.swifttechco.com)
-- [Latency vs Throughput](https://www.swifttechco.com)
+- Top 15 Tradeoffs
+- Vertical vs Horizontal Scaling
+- Concurrency vs Parallelism
+- Long Polling vs WebSockets
+- Batch vs Stream Processing
+- Stateful vs Stateless Design
+- Strong vs Eventual Consistency
+- Read-Through vs Write-Through Cache
+- Push vs Pull Architecture
+- REST vs RPC
+- Synchronous vs. asynchronous communications
+- Latency vs Throughput
 
-## ✅ [How to Answer a System Design Interview Problem](https://www.swifttechco.com)
+## ✅ How to Answer a System Design Interview Problem
 
 ## 💻 System Design Interview Problems
 ### Easy
-- [Design URL Shortener like TinyURL](https://www.swifttechco.com)
-- [Design Autocomplete for Search Engines](https://www.swifttechco.com)
-- [Design Load Balancer](https://www.swifttechco.com)
-- [Design Content Delivery Network (CDN)](https://www.swifttechco.com)
-- [Design Parking Garage](https://www.swifttechco.com)
-- [Design Vending Machine](https://www.swifttechco.com)
-- [Design Distributed Key-Value Store](https://www.swifttechco.com)
-- [Design Distributed Cache](https://www.swifttechco.com)
-- [Design Authentication System](https://www.swifttechco.com)
-- [Design Unified Payments Interface (UPI)](https://www.swifttechco.com)
+- Design URL Shortener like TinyURL
+- Design Autocomplete for Search Engines
+- Design Load Balancer
+- Design Content Delivery Network (CDN)
+- Design Parking Garage
+- Design Vending Machine
+- Design Distributed Key-Value Store
+- Design Distributed Cache
+- Design Authentication System
+- Design Unified Payments Interface (UPI)
 ### Medium
-- [Design WhatsApp](https://www.swifttechco.com)
-- [Design Spotify](https://www.swifttechco.com)
-- [Design Notification Service](https://www.swifttechco.com)
-- [Design Distributed Job Scheduler](https://www.swifttechco.com)
-- [Design Tinder](https://www.swifttechco.com)
-- [Design Facebook](https://www.swifttechco.com)
-- [Design Reddit](https://www.swifttechco.com)
-- [Design Netflix](https://www.swifttechco.com)
-- [Design Youtube](https://www.swifttechco.com)
-- [Design Google Search](https://www.swifttechco.com)
-- [Design E-commerce Store like Amazon](https://www.swifttechco.com)
-- [Design Shopify](https://www.swifttechco.com)
-- [Design Airbnb](https://www.swifttechco.com)
-- [Design Rate Limiter](https://www.swifttechco.com)
-- [Design Distributed Message Queue like Kafka](https://www.swifttechco.com)
-- [Design Flight Booking System](https://www.swifttechco.com)
-- [Design Online Code Editor](https://www.swifttechco.com)
-- [Design an Analytics Platform (Metrics & Logging)](https://www.swifttechco.com)
-- [Design Payment System](https://www.swifttechco.com)
-- [Design a Digital Wallet](https://www.swifttechco.com)
+- Design WhatsApp
+- Design Spotify
+- Design Notification Service
+- Design Distributed Job Scheduler
+- Design Tinder
+- Design Facebook
+- Design Reddit
+- Design Netflix
+- Design Youtube
+- Design Google Search
+- Design E-commerce Store like Amazon
+- Design Shopify
+- Design Airbnb
+- Design Rate Limiter
+- Design Distributed Message Queue like Kafka
+- Design Flight Booking System
+- Design Online Code Editor
+- Design an Analytics Platform (Metrics & Logging)
+- Design Payment System
+- Design a Digital Wallet
 ### Hard
-- [Design Location Based Service like Yelp](https://www.swifttechco.com)
-- [Design Uber](https://www.swifttechco.com)
-- [Design Food Delivery App like Doordash](https://www.swifttechco.com)
-- [Design Google Docs](https://www.swifttechco.com)
-- [Design Google Maps](https://www.swifttechco.com)
-- [Design Zoom](https://www.swifttechco.com)
-- [Design File Sharing System like Dropbox](https://www.swifttechco.com)
-- [Design Ticket Booking System like BookMyShow](https://www.swifttechco.com)
-- [Design Distributed Web Crawler](https://www.swifttechco.com)
-- [Design Code Deployment System](https://www.swifttechco.com)
-- [Design Distributed Cloud Storage like S3](https://www.swifttechco.com)
-- [Design Distributed Locking Service](https://www.swifttechco.com)
+- Design Location Based Service like Yelp
+- Design Uber
+- Design Food Delivery App like Doordash
+- Design Google Docs
+- Design Google Maps
+- Design Zoom
+- Design File Sharing System like Dropbox
+- Design Ticket Booking System like BookMyShow
+- Design Distributed Web Crawler
+- Design Code Deployment System
+- Design Distributed Cloud Storage like S3
+- Design Distributed Locking Service
 
 ## 📇 Courses
-- [System Design Fundamentals](https://www.swifttechco.com)
-- [System Design Interviews](https://www.swifttechco.com)
+- System Design Fundamentals
+- System Design Interviews
 
 ## 📩 Newsletters
-- [AlgoMaster Newsletter](https://www.swifttechco.com)
+- AlgoMaster Newsletter
 
 ## 📚 Books
-- [Designing Data-Intensive Applications](https://www.swifttechco.com)
+- Designing Data-Intensive Applications
 
 ## 📺 YouTube Channels
-- [Tech Dummies Narendra L](https://www.swifttechco.com)
-- [Gaurav Sen](https://www.swifttechco.com)
-- [codeKarle](https://www.swifttechco.com)
-- [ByteByteGo](https://www.swifttechco.com)
-- [System Design Interview](https://www.swifttechco.com)
-- [sudoCODE](https://www.swifttechco.com)
-- [Success in Tech](https://www.swifttechco.com)
+- Tech Dummies Narendra L
+- Gaurav Sen
+- codeKarle
+- ByteByteGo
+- System Design Interview
+- sudoCODE
+- Success in Tech
 
 ## 📜 Must-Read Engineering Articles
 - [How Telegram stores trillions of messages](https://t.me/+Qt_eFvkb2rliMzNh)
-- [Building In-Video Search at Netflix](https://www.swifttechco.com)
-- [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.swifttechco.com)
-- [How Airbnb avoids double payments in a Distributed Payments System](https://www.swifttechco.com)
-- [Stripe’s payments APIs - The first 10 years](https://www.swifttechco.com)
-- [Real time messaging at Slack](https://www.swifttechco.com)
+- Building In-Video Search at Netflix
+- How Canva scaled Media uploads from Zero to 50 Million per Day
+- How Airbnb avoids double payments in a Distributed Payments System
+- Stripe’s payments APIs - The first 10 years
+- Real time messaging at Slack
 
 ## 🗞️ Must-Read Distributed Systems Papers
-- [Paxos: The Part-Time Parliament](https://www.swifttechco.com)
-- [MapReduce: Simplified Data Processing on Large Clusters](https://www.swifttechco.com)
-- [The Google File System](https://www.swifttechco.com)
-- [Dynamo: Amazon’s Highly Available Key-value Store](https://www.swifttechco.com)
-- [Kafka: a Distributed Messaging System for Log Processing](https://www.swifttechco.com)
-- [Spanner: Google’s Globally-Distributed Database](https://www.swifttechco.com)
-- [Bigtable: A Distributed Storage System for Structured Data](https://www.swifttechco.com)
-- [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.swifttechco.com)
-- [The Log-Structured Merge-Tree (LSM-Tree)](https://www.swifttechco.com)
-- [The Chubby lock service for loosely-coupled distributed systems](https://www.swifttechco.com)
+- Paxos: The Part-Time Parliament
+- MapReduce: Simplified Data Processing on Large Clusters
+- The Google File System
+- Dynamo: Amazon’s Highly Available Key-value Store
+- Kafka: a Distributed Messaging System for Log Processing
+- Spanner: Google’s Globally-Distributed Database
+- Bigtable: A Distributed Storage System for Structured Data
+- ZooKeeper: Wait-free coordination for Internet-scale systems
+- The Log-Structured Merge-Tree (LSM-Tree)
+- The Chubby lock service for loosely-coupled distributed systems
 
 ---
 
@@ -203,14 +196,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
